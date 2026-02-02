@@ -3,17 +3,17 @@ import type { Todo } from "../types/todo";
 export const dummyData: Todo[] = [
     {
         id:1,
-        title:"Like this video",
+        title:"GET UP",
         completed:false,
     },
     {
         id:2,
-        title:"Subscribe the channel",
+        title:"CURL UP",
         completed:false,
     },
     {
         id:3,
-        title:"Leave a comment",
+        title:"SUFFER",
         completed:false,
     },
 ];
